@@ -1,2 +1,2 @@
-# pfm1
+# pfm
 production forecast model generation
